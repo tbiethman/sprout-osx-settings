@@ -1,5 +1,5 @@
 osx_defaults "set screensaver timeout" do
-  domain com.apple.screensaver
+  domain 'com.apple.screensaver'
   key 'idleTime'
   integer 0
 end
